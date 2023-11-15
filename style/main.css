@@ -3,7 +3,9 @@
 
 
 * {font-family: 'Readex Pro';}
-
+body {
+    background-color: #410d8e; 
+}
 
 a {
     text-decoration: none;
