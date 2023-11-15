@@ -85,16 +85,6 @@ p.hbar(y=data['Competence'], right=data['Maitrise'], height=0.9)
 # Show the Bokeh figure in Streamlit
 st.bokeh_chart(p)
 
-# st.write(
-#     """
-# Java | Php | Python (POO)| 
-# Golang | Javascript |
-# HTML | CSS | Git |
-# SQL | La gestion de reseaux,
-# (windows server, ubuntu, debian)
-
-# """
-# )
 
 st.write("#")
 st.subheader("🌍 Linguistique")
