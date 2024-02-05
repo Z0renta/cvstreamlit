@@ -76,7 +76,7 @@ st.write(
 st.write("#")
 st.subheader("Competénces en informatiques")
 # Load the CSV data into a Pandas DataFrame
-data = pd.DataFrame({'Competence': ['Java', 'PHP', 'Python', 'Golang', 'Javascript', 'Html', 'CSS', 'Git', 'SQL', 'Réseaux'], 'Maitrise': [4, 6, 8, 4, 7, 9, 9, 5, 7, 6]})
+data = pd.DataFrame({'Competence': ['Java', 'PHP', 'Python', 'Golang', 'Javascript', 'Html', 'CSS', 'Git', 'SQL', 'Réseaux'], 'Maitrise': [4, 6, 8, 4, 7, 9, 9, 5, 7, 4]})
 
 # Create a Bokeh figure
 p = figure(y_range=data['Competence'], height = 300, width=600, title="Competence Maitriser")
