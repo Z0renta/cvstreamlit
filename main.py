@@ -151,7 +151,13 @@ st.markdown(
     <div style="border: 1px solid #ddd; border-radius: 5px; padding: 10px; box-shadow: 1px 2px 5px #ccc; margin-top: 10px;">
         <p>Ouvrier Polyvalent</p>
         <p>Les vins Richard 01/07/2022 au 01/09/2022 puis 01/07/2023 au 01/09/2023</p>
-        <p>Preparateurs de commandes sur Fenwick puis Controlleur au retours vide </p>
+        <p>Preparateurs de commandes sur Fenwick puis Controlleur au retours vide. </p>
+    </div>
+
+    <div style="border: 1px solid #ddd; border-radius: 5px; padding: 10px; box-shadow: 1px 2px 5px #ccc; margin-top: 10px;">
+        <p>Stage fin d'année 2023/2024</p>
+        <p>Paris Ynov Campus 01/07/2024 au 09/08/2024</p>
+        <p>Création d'une plateforme pédagogiques a l'aide de php et de sql. </p>
     </div>
     """,
     unsafe_allow_html=True
